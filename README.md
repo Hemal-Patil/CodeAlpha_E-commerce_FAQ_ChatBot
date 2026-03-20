@@ -100,7 +100,7 @@ Append new entries in same JSON format to the file `faq_dataset.json`:
 ```
 
 ---
-## Working
+## How it works
 1. Preprocessing
 - FAQ questions and user input are cleaned and tokenized.
 - Stopwords removed to improve matching accuracy.
