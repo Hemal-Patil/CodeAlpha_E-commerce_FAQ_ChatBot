@@ -1,0 +1,102 @@
+[
+  {
+    "question": "How do I track my order status?",
+    "answer": "You can track your order from your account under the **My Orders** section."
+  },
+  {
+    "question": "How can I modify the quantity of items in the cart?",
+    "answer": "Go to Cart, select the quantity dropdown box to the right of the title and choose the desired quantity. The quantity number for the item and order amount will be updated automatically."
+  },
+  {
+    "question": "Can I modify or change an order after placing it?",
+    "answer": "You would not be able to change or modify the number of items once you have already placed an order. You can place another fresh order with the desired modifications. \nHowever, you can change your shipping preferences in **Your Account** at any time after placing your order as long as the order hasn't entered the shipping process yet."
+  },
+  {
+    "question": "How do I update delivery instructions?",
+    "answer": "Select update delivery instructions under your delivery address, if this option is available. A window appears. Update your delivery instructions and select Save instructions."
+  },
+  {
+    "question": "How do I change the payment method?",
+    "answer": "You can add or update your payment methods by selecting the payments options section in **Your Account**."
+  },
+  {
+    "question": "How can I cancel my order?",
+    "answer": "You can cancel items or orders by visiting the **Your Orders** section in **Your Account**. \nTo cancel orders:\n1. Go to Your Orders. \n2. Select the item you want to cancel and click Cancel items. \n3. Provide reasons for cancellation (optional). \n4. Click on Cancel Checked Items. \n\n**Note:** If payment is already done you will receive refund in 3-4 working days."
+  },
+  {
+    "question": "How do I place a gift order?",
+    "answer": "You can choose to gift-wrap any item from your shopping cart. \nTo do this, check for the gift box next to the item that you want gift-wrapped. \nProducts eligible for this service can be gift wrapped for just ₹30."
+  },
+  {
+    "question": "How do I place an order?",
+    "answer": "After you've reviewed the items in your Shopping Cart, proceed to checkout to complete your order. \n1. Select **Proceed to Checkout**. \n2. If prompted, sign in to your account or create a new account if this is your first order. \n3. Enter a shipping address. \n4. Choose a shipping method. \n5. Enter your payment information. \n6. Review your order details. \n7. Select **Place your order**."
+  },
+  {
+    "question": "How do I replace a damaged product?",
+    "answer": "1. Go to Your Orders. \n2. Select the product that you want to replace. \n3. Click on Return/ Replace items. \n4. Choose a reason to replace. \n5. Continue and proceed as per on-screen instructions."
+  },
+  {
+    "question": "Why am I unable to return an item?",
+    "answer": "There may be following possibilities for not being able to return an item: \n- The item is in **non-returnable** category. Products eligible for return will have a logo on the product details page which mentions the return window and return category as per the product. \n- The return window is over. You cannot return items after a specified time period mentioned on the products details."
+  },
+  {
+    "question": "How to I return a purchased item?",
+    "answer": "1. Sign in with your account you placed the order. \n2. Access Your Orders. \n3. Select the item you want to return or replace. \n4. Select a reason from the menu and follow the on-screen instructions to continue."
+  },
+  {
+    "question": "Can the replacement be delivered to a different address?",
+    "answer": "Replacements cannot be delivered to a different address."
+  },
+  {
+    "question": "How do I create an account?",
+    "answer": "Creating an account is easy. \n1. Go to **Accounts** \n2. Tap **Sign up** \n3. Enter your mobile number \n4. Enter the OTP (One time password) received on your mobile number. \n5. Tap **Submit**"
+  },
+  {
+    "question": "How do I check if instant discount is applied to my order?",
+    "answer": "You can find an instant offer that has been successfully applied to an order on the **Orders** page under the **Account** section, within the **Price Details** area."
+  },
+  {
+    "question": "What are the standard shipping speeds and delivery charges?",
+    "answer": "Standard Delivery charges and shipping timelines vary based on several factors like the seller, type of the product, price of the product, order value and delivery pin code."
+  },
+  {
+    "question": "What if the product turns out to be defective after the product is delivered?",
+    "answer": "In the unlikely event of an item being defective, you can easily request a return as per the returns policy of the product through the **Orders** section"
+  },
+  {
+    "question": "When will I get my refund after returning an item?",
+    "answer": "If payment is already done you will receive refund in 3-4 working days."
+  },
+  {
+    "question": "What payment methods are available?",
+    "answer": "Payment can be done using any of the following modes: \n- Credit card \n- Debit card \n- Net Banking \n- UPI \n- Cash on Delivery (COD) \n\n**Note:** Cash on Delivery may not be available for some items. Check the products page for available modes."
+  },
+  {
+    "question": "What is Platform Fee?",
+    "answer": "It is a fee levied on each order to sustain the efficient operations and continuous improvement of the platform, for a hassle free experience. This fee is non-refundable upon cancellation or return of the order."
+  },
+  {
+    "question": "Where can I download my invoice?",
+    "answer": "Invoices become available 24 hours after your order ships. \nTo view the invoice for an individual order, go to **Your Orders** and select **Invoice** next to the relevant order details."
+  },
+  {
+    "question": "How to get cashback on eligible items?",
+    "answer": "The cashback is being provided if the customer makes a second purchase within a specified time window of the first purchase. \nThe time window starts from the time of previous purchase and is specified in the promotion message. \nCustomers will get cashback as per the relevant promotion message on gateway, display page or cart. \n\n**Note:** This offer is not available on Cash on Delivery (COD) orders."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "To access 24/7 support, visit Customer Service and select the option that addresses your question or issue."
+  },
+  {
+    "question": "Why is my shipment late?",
+    "answer": "Here are some of the possible reasons for late delivery: \n- Incorrect address \n- Missing apartment, building, floor, or house number \n- Severe weather conditions \n- Product out of stock \n- Product damaged during transit \n- Local or regional contingencies"
+  },
+  {
+    "question": "Why did the payment fail?",
+    "answer": "Payments can sometimes fail or remain in a pending stage. If you are facing this issue, you have the option to revise your payment. Here are some probable reasons: \n- You may have entered incorrect card details. \n- Your card may be blocked for online transactions. \n- You may have closed or refreshed the page or went back to the previous page, while your payment was still being processed. \n-  if connection with your bank was not possible due to technical issues or your bank may be going through an outage."
+  },
+  {
+    "question": "How do I claim warranty for my product?",
+    "answer": "You can claim the warranty for your product by using the invoice at any authorized service center of the brand."
+  }
+]
